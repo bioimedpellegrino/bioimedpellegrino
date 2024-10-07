@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub!  
-**Software Engineer | AI Researcher | Biomedical Innovator**
+**Software Engineer | AI passionate | Biomedical Innovator**
 
 ---
 

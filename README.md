@@ -51,9 +51,9 @@ A real-time system for non-invasive ocular tracking using infrared camera filter
 
 ## 📈 GitHub Stats (Public repositories contributions only)
 
-![bioimedpellegrino's Stats](https://github-readme-stats.vercel.app/api?username=bioimedpellegrino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+![bioimedpellegrino's Stats](https://github-readme-stats-orpin-theta-62.vercel.app/api?username=bioimedpellegrino&theme=vue-dark&show_icons=true&hide_border=true)  
 ![bioimedpellegrino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bioimedpellegrino&theme=vue-dark&hide_border=true&count_private=true)  
-![bioimedpellegrino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bioimedpellegrino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
+![bioimedpellegrino's Top Languages](https://github-readme-stats-orpin-theta-62.vercel.app/api/top-langs/?username=bioimedpellegrino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true)  
 
 ---
 

@@ -62,7 +62,6 @@ A real-time system for non-invasive ocular tracking using infrared camera filter
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-pellegrino-5a54a9136/)
 - 🌐 [Personal Website](https://alessandropellegrino.dev/)
 - ✉️  Email: alessandropellegrino.dev@gmail.com
-- 🔬 [LeetCode](https://leetcode.com/u/bioimedpellegrino/)
 
 ---
 
